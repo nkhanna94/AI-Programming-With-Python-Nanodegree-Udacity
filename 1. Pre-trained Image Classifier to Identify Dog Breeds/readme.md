@@ -9,7 +9,3 @@
 - Correctly classify the specific breed of dog for images that contain dogs.
 - Evaluate which Convolutional Neural Network (CNN) model architecture—ResNet, AlexNet, or VGG—performs best in achieving objectives 1 and 2.
 - Consider the computational resources and time required for each model, and assess if a more efficient solution could yield comparable results within a reasonable time frame.
-
----
-
-This version is a bit more concise and polished while keeping the same meaning and structure.
